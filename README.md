@@ -94,23 +94,7 @@
     <A><img <source src="캡처.jpg" width=20%
     </a>
     <H2>미리메리크리스마스야</H2>
-		<div class="body"> <p> < body > </p>
-			<header>
-				<p>< header ></p> 제목, 로고, 배너, 산업정보 등
-			</header>
-			<section>
-
-				<div class="section">
-  					<div class="nav">
-						<p>< nav ></p> 왼쪽 <br> 메뉴바
-					</div>
-  					<div class="article">
-						<p>< article ></p> 홈페이지 메인 내용, 포스트 등
-					</div>
-  					<div class="aside">
-						<p>< aside ></p> 사이드 바, tip 등
-					</div>
-				</div>
+<h3>화돌아 오래오래 가자!!</h3>
 
 			</section>
 			<footer>
